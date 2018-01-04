@@ -1,0 +1,23 @@
+{
+  "name": "react-roll-container",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyy1115/react-roll-container.git"
+  },
+  "author": "hyy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hyy1115/react-roll-container/issues"
+  },
+  "homepage": "https://github.com/hyy1115/react-roll-container#readme",
+  "dependencies": {
+    "jroll": "^2.6.0",
+    "react": "^16.2.0"
+  }
+}
