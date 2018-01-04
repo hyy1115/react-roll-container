@@ -76,6 +76,7 @@ class Component extends React.Component {
 }
 ```
 3、弹框组件采用CSS3垂直滚动
+
 我们知道，在移动端做弹框内部的滚动的时候，会有点击穿透问题，如果采用MyJRoll组件来包装弹框，则不会有这个问题
 
 4、更多使用场景需自行发现
