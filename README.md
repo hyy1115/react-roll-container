@@ -83,7 +83,7 @@ class Component extends React.Component {
 
 ### 可配置信息
 
-height：这个是最重要的配置，因为浏览器需要知道你的滚动区域的实际高度，有时候js执行后计算高度不准确，可能是因为你的DOM还没有渲染完成，就像使用JQuery的时候要reader才能保证安全
+height：这个是最重要的配置，因为浏览器需要知道你的滚动区域的实际高度，有时候js执行后计算高度不准确，可能是因为你的DOM还没有渲染完成，就像使用JQuery的时候要ready才能保证安全
 
 maxHeight：通常你不需要管它
 
