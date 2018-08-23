@@ -1,6 +1,6 @@
 {
   "name": "react-roll-container",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/hyy1115/react-roll-container#readme",
   "dependencies": {
-    "jroll": "^2.6.0",
-    "react": "^16.2.0"
+    "jroll": "2.6.5",
+    "react": "16.4.2"
   }
 }
